@@ -29,6 +29,6 @@ else{
     classificacao = 'Obsidade Grau III'
 }
 
-let span = document.getElementById('resultado').innerHTML = "IMC:"+resultadoFinal+ "(" +classificacao+")"
+let span = document.getElementById('resultado').innerHTML = "IMC: "+resultadoFinal+ " (" +classificacao+")"
 
 }
